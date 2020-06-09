@@ -1,0 +1,19 @@
+자바-클래스
+--------------
+- 멤버변수: 인스턴스 변수
+  객체생성시 "객체마다 따로따로 생성" 되는   
+  힙영역의 변수들 
+
+인스턴스변수라고 부르는이유는 클래스의 인스턴스인 객체생성시 마다 복사
+동적인특징
+<->정적인특징:정적변수 (static 변수)
+
+
+
+https://mvnrepository.com/artifact/org.jsoup/jsoup
+
+1.9.2
+https://mvnrepository.com/artifact/org.jsoup/jsoup/1.9.2
+
+자바의 부품들을 압축해놧다고해서 아카이브 
+jar = 자바 아카이브 
