@@ -1,0 +1,30 @@
+delete from bbs where id=?
+
+
+
+-Data Access Object(DAO)
+DB 접근해서 처리하는 클래스 
+데이터를 가지고 할 수 있는 일 
+Create, Read, Update, Delete (CRUD) 
+
+
+
+-Data Transfer Object(DTO) 
+입력한 데이터를 DB전송하기 위해서 
+데이터를 묶기 위한 가방역할의 클래스 
+
+
+
+집에가서 업데이트문 해보기
+update bbs set content= ? where id = ?
+
+CUD: java --- > db
+R: java <-- db 
+
+select를 할려면 
+db에버 들어가서
+sql 편집기 누른다음에
+select * from bbs 등 명령어 하고 컨트롤+엔터 
+
+
+
